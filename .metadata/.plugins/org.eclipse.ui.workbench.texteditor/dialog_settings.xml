@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.GotoLineAction$GotoLineDialog_dialogBounds">
+		<item value="692" key="DIALOG_X_ORIGIN"/>
+		<item value="362" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item value="false" key="isRegEx"/>
+		<item value="Hi" key="selection"/>
+		<item value="false" key="casesensitive"/>
+		<item value="false" key="incremental"/>
+		<item value="true" key="wrap"/>
+		<item value="false" key="wholeword"/>
+		<list key="findhistory">
+			<item value="hi"/>
+			<item value="boardCommentOk"/>
+			<item value="MemberMyPageOk.me"/>
+			<item value="MemberMyBoardOkAction"/>
+			<item value="MemberMyBoardOk.me"/>
+			<item value="change_pw"/>
+			<item value="find"/>
+			<item value="find_pw"/>
+			<item value="board_state"/>
+			<item value="MemberUpdatePwOkAction"/>
+			<item value="selectBoardCnt"/>
+			<item value="CMPP_PUPPY_BOARD"/>
+			<item value="selectIndexxGalleryDogList"/>
+			<item value="menu-list"/>
+			<item value="menu"/>
+		</list>
+		<list key="replacehistory">
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item value="339" key="DIALOG_WIDTH"/>
+		<item value="1|맑은 고딕|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕" key="DIALOG_FONT_NAME"/>
+		<item value="455" key="DIALOG_HEIGHT"/>
+		<item value="1372" key="DIALOG_X_ORIGIN"/>
+		<item value="275" key="DIALOG_Y_ORIGIN"/>
+	</section>
+</section>

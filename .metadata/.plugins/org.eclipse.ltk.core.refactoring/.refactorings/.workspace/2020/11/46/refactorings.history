@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;comyPet/src/com/comypet/app/vo/NickVo.java&apos;" deleteContents="false" description="Delete resource &apos;comyPet/src/com/comypet/app/vo/NickVo.java&apos;" element1="/comyPet/src/com/comypet/app/vo/NickVo.java" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1604993979696"/>
+</session>

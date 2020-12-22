@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="CleanDialogSettings">
+		<item value="581" key="DIALOG_WIDTH"/>
+		<item value="false" key="TOGGLE_SELECTED"/>
+		<item value="452" key="DIALOG_HEIGHT"/>
+		<item value="670" key="DIALOG_X_ORIGIN"/>
+		<item value="214" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="ExternalProjectImportWizard">
+		<item value="true" key="WizardProjectsImportPage.STORE_NESTED_PROJECTS"/>
+		<item value="true" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
+		<item value="true" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value=""/>
+			<item value="C:\Users\sangh\OneDrive\문서\카카오톡 받은 파일\day03"/>
+			<item value="C:\Users\sangh\Downloads\day03"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value="C:\Users\sangh\OneDrive\문서\카카오톡 받은 파일\task.zip"/>
+			<item value="C:\Users\sangh\OneDrive\문서\카카오톡 받은 파일\ex02_1.zip"/>
+			<item value="C:\Users\sangh\Downloads\day05_spring\ex02.zip"/>
+			<item value="C:\Users\sangh\OneDrive\문서\카카오톡 받은 파일\board_mvc2.zip"/>
+			<item value="C:\Users\sangh\Downloads\board_mvc2 (1).zip"/>
+			<item value="C:\Users\sangh\OneDrive\문서\카카오톡 받은 파일\cvcv.zip"/>
+			<item value="C:\Users\sangh\Downloads\board_mvc2.zip"/>
+			<item value="C:\Users\sangh\OneDrive\문서\카카오톡 받은 파일\board_mvc2 (1).zip"/>
+			<item value=""/>
+		</list>
+	</section>
+	<section name="WORKBENCH_SETTINGS">
+		<list key="ENABLED_TRANSFERS">
+		</list>
+	</section>
+	<section name="ChooseWorkspaceDialogSettings">
+		<item value="609" key="DIALOG_X_ORIGIN"/>
+		<item value="274" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="SaveAsDialogSettings">
+		<item value="613" key="DIALOG_WIDTH"/>
+		<item value="1|맑은 고딕|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕" key="DIALOG_FONT_NAME"/>
+		<item value="645" key="DIALOG_HEIGHT"/>
+		<item value="663" key="DIALOG_X_ORIGIN"/>
+		<item value="94" key="DIALOG_Y_ORIGIN"/>
+	</section>
+</section>
