@@ -7453,3 +7453,9 @@ java.lang.IllegalArgumentException: MALFORMED
 	at org.eclipse.ui.internal.wizards.datatransfer.WizardProjectsImportPage.collectProjectFilesFromProvider(WizardProjectsImportPage.java:1120)
 	at org.eclipse.ui.internal.wizards.datatransfer.WizardProjectsImportPage.lambda$6(WizardProjectsImportPage.java:902)
 	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:119)
+
+!ENTRY org.eclipse.jface.text 2 0 2020-12-22 14:30:07.038
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.boolean'
+
+!ENTRY org.eclipse.recommenders.models.rcp 1 0 2020-12-22 14:30:08.305
+!MESSAGE org.eclipse.recommenders:index::zip:0.0.0 could not be resolved from the model repositories. Are you offline?
